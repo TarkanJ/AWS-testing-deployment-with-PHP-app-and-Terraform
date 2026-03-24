@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  php-apache:
+    build: .
+    ports:
+      - "3766:80"
+    volumes:
+      - .:/var/www/html
+
