@@ -1,7 +1,7 @@
 # AWS-testing-deployment-with-PHP-app-and-Terraform
 This repository is for deploying a PHP web-app using Terraform on AWS
 
-Using Terraform
+Deploying AWS app Using Terraform
 
 Výpočet doby nabíjení při zadaném proudu(I) v miliAmpérech(mA)
 
